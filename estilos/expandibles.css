@@ -1,0 +1,20 @@
+.texto_expandir {
+    display: none;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.toggle h2 {
+    cursor: pointer; /* Indica que el elemento es interactivo */
+  font-weight: 600;   
+ 
+}
+.toggle h1 {
+    cursor: pointer;
+  font-weight: 1000;   
+ 
+}
+
+.active .texto_expandir {
+    display: block;
+}

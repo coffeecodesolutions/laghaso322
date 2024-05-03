@@ -1,0 +1,39 @@
+
+  
+.principal{
+    background-color: #caf487;
+    color: #212c56;
+    text-align: center;
+   
+}
+.principal .btn-expandir h1{
+font-weight: bold;
+font-size: x-large;
+
+}
+.principal .btn-expandir h2 {
+   
+    font-weight: bold;
+}
+.principal p {
+   margin-left: 30%;
+   margin-right: 30%;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   font-weight: bold;
+}
+
+
+footer a {
+
+    text-decoration: none;
+}
+
+.principal #desplegable {
+    cursor: pointer;
+  }
+  
+ .principal #contenido {
+    display: none;
+  }
+  

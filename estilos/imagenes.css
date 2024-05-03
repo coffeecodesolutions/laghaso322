@@ -1,0 +1,40 @@
+
+
+.pie-pagina .grupo-imagenes {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    
+  
+
+}
+.pie-pagina .grupo-imagenes  img {
+   
+width: 80px;
+height: auto;
+margin: 20px;
+max-width: 100%;
+
+} 
+.pie-pagina .valores img{
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.principal .grupo-imagenes{
+    
+    display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center; /* Centra verticalmente */
+  
+   
+}
+.principal .grupo-imagenes img {
+    width: 100px;
+height: 100px;
+margin: 20px;
+}
+
+

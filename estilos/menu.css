@@ -1,0 +1,25 @@
+.menu{
+    display: flex;
+    width: 80%;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #212C56;
+}
+
+.menu-logo img{
+    width: 150px;   
+}
+
+.menu-enlaces a{
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+}
+
+.menu-tema i{
+    color: white;
+    font-size: 30px;
+}
